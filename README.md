@@ -1,5 +1,8 @@
 LOAN DEFAULT ANALYSIS DASHBOARD
 
+# Dashboard Link :
+https://app.powerbi.com/groups/741a852f-fd69-41b7-ac51-ed2a7c5e1cee/reports/b4d8f901-a055-4779-99a4-b96a58a48f32/10e756261d28bde839e6?experience=power-bi
+
 # Business Objective
 The objective of this project is to conduct a comprehensive loan default analysis to understand borrower behavior, financial risk, and repayment trends. By leveraging Power BI visualizations, the dashboard aims to:
 - Identify high-risk borrower segments.
@@ -200,6 +203,4 @@ Impact: Provides actionable insights into borrower risk, enabling banks to reduc
 
 - Decision Support: Provide executives and risk managers with clear, data-driven dashboards for strategic decision-making.
 
-# Dashboard Link :
-https://app.powerbi.com/groups/741a852f-fd69-41b7-ac51-ed2a7c5e1cee/reports/b4d8f901-a055-4779-99a4-b96a58a48f32/10e756261d28bde839e6?experience=power-bi
 
