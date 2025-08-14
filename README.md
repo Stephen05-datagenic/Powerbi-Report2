@@ -179,15 +179,14 @@ DIVIDE(
 
 ## KPIs & Visualizations:
 
-- Default Rate by Credit Score Category → Stacked Bar Chart.
+- YOY Loan Amount Change by Year –> Line/Area Chart
 
-- Default Rate by Mortgage Status → Donut Chart.
+- YOY Default Loans Change by Year –> Line/Area Chart
 
-- Income Distribution of Defaulted Loans → Histogram/Bar Chart.
+- YTD Loan by Credit Score Bins and Marital Status –> Ribbon Chart
 
-- Loan Amount Distribution of Defaulted Loans → Histogram/Bar Chart.
+- Loan Distribution by Income Bracket & Employment Type –> Decomposition Tree
 
-- Default Rate by Applicant Type (Single vs Joint) → Column Chart.
 
 Impact: Provides actionable insights into borrower risk, enabling banks to reduce non-performing assets (NPAs) and improve credit risk models.
 
